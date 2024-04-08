@@ -5,16 +5,16 @@ import Table from "./components/Table.vue";
 
 // Tree Collapse
 let tree = ref({
-  label: "MARKA",
+  label: "Models",
   nodes: [
     {
-      label: "Daewoo",
+      label: "Dara warehouse'",
       nodes: [
         {
-          label: "Nexia",
+          label: "Report samples",
           nodes: [
             {
-              label: "Zapchastlar",
+              label: "Statistics",
               nodes: [
                 {
                   label: "Tugadi",
